@@ -1,1 +1,6 @@
-cs25NiKe
+GitHub Pages Exercise
+ ===========
+ Involves
+ * git
+ * GitHub
+ * SSH
